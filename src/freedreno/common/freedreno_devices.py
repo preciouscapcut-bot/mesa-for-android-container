@@ -269,6 +269,7 @@ add_gpus([
         GPUId(608), # TODO: Test it, based only on libwrapfake dumps
         GPUId(610),
         GPUId(612), # TODO: Test it, based only on libwrapfake dumps
+        GPUId(613),
     ], A6xxGPUInfo(
         CHIP.A6XX,
         [a6xx_base, a6xx_gen1_low],
@@ -304,7 +305,6 @@ add_gpus([
     ))
 
 add_gpus([
-        GPUId(613),
         GPUId(615),
         GPUId(616),
         GPUId(618),
