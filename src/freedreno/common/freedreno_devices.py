@@ -269,7 +269,7 @@ add_gpus([
         GPUId(608), # TODO: Test it, based only on libwrapfake dumps
         GPUId(610),
         GPUId(612), # TODO: Test it, based only on libwrapfake dumps
-        GPUId(613),
+        GPUId(613), # typed wrong commit message previously 
     ], A6xxGPUInfo(
         CHIP.A6XX,
         [a6xx_base, a6xx_gen1_low],
